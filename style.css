@@ -1,0 +1,83 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container{
+
+    max-width: 1000px;
+    background-color:  #e6ffff;
+    padding: 20px;
+    margin:  0 auto;
+  
+}
+header{
+
+}
+.header-img{
+    height: 120px;
+    width: 100px;
+    border: 2px solid gray;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+   float: left;
+   padding: 20px;
+}
+h1,h3{
+    color: #11999e;
+}
+.header-contact{
+    float: right;
+    padding: 20px;
+}
+.header-contact span{
+    font-weight: bold;
+}
+.header-contact p{
+    color: #11999e;
+    padding: 5px;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: 3px solid black;
+    margin: 20px auto;
+    border-bottom: none;
+    width: 100%;
+}
+#personal-section{
+
+}
+.contain{
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float: left;
+}
+.hr-common{
+    border: 1px solid black;
+    margin: 20px auto;
+    border-bottom: none;
+    width: 100%;
+}
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+.bottom-container p{
+   color: white; 
+}
